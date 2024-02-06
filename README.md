@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kwan
-#### I love anything Cyber Security
+#### I love anything Data Analysis
 
-Skills: Python, SQL, Cross-site Scripting, Bash Scripting, 
+Skills: Excel, Power BI, Tableau, MySQL, Microsoft SQL Server, Python, Problem Solving Techniques
 
 - 🔭 I’m currently working on this page. 
 
